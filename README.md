@@ -38,7 +38,7 @@
 ### 🚀 Featured Projects
 
 #### 🚀 To-Do PWA Application
-> Standalone Angular PWA prototype for a Progressive Web Apps course at the University of Szeged *
+> Standalone Angular PWA prototype for a Progressive Web Apps course at the University of Szeged
 
 - **What it does:** Serves as a full-featured Progressive Web Application (PWA) prototype built to deliver real-time data management, user authentication, and push notifications with offline-first synchronization capabilities.
 - **My contribution:** Architected the component hierarchy and layout design using Angular Material UI; implemented protected routing, RxJS observable state management, Firebase services (Auth, Firestore, FCM), and an IndexedDB synchronization layer.
@@ -46,8 +46,6 @@
 - **What I learned:** Core Angular architecture, RxJS state management, and PWA capabilities including offline persistence and push notifications.
 
 🔗 [View Repository]([https://github.com/orsiszanto/ToDo_PWA_Application])
-
-</details>
 
 <img src="purple-svg.svg" width="100%" height="2px" />
 
