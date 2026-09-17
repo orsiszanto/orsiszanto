@@ -37,22 +37,15 @@
 
 ### 🚀 Featured Projects
 
-> *Projects are currently under development and will be showcased here soon!*
-
-<details>
-<summary><b>📌 View Project Template Structure</b></summary>
-
-<br>
-
 #### 🚀 Project Name
-> *Short one-sentence description of what the project does.*
+> *To-Do PWA Application*
 
-- **What it does:** Explanation of the core functionality and problem solved.
-- **My contribution:** Layout design, component architecture, and responsive styling.
-- **Technologies:** `Angular` · `TypeScript` · `Sass`
-- **What I learned:** Key takeaways regarding UI performance and layout structure.
+- **What it does:** Serves as a full-featured Progressive Web Application (PWA) prototype built to deliver real-time data management, user authentication, and push notifications with offline-first synchronization capabilities.
+- **My contribution:** Architected the component hierarchy and layout design using Angular Material UI; implemented protected routing, RxJS observable state management, Firebase services (Auth, Firestore, FCM), and an IndexedDB synchronization layer.
+- **Technologies:** `Angular` · `TypeScript` · `Sass` · `Firebase` · `IndexedDB` · `RxJS` · `Angular Material`
+- **What I learned:** Core Angular architecture, RxJS state management, and PWA capabilities including offline persistence and push notifications.
 
-🔗 [View Repository](https://github.com/orsiszanto)
+🔗 [View Repository]([https://github.com/orsiszanto/ToDo_PWA_Application])
 
 </details>
 
