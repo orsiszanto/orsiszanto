@@ -45,7 +45,7 @@
 - **Technologies:** `Angular` · `TypeScript` · `Sass` · `Firebase` · `IndexedDB` · `RxJS` · `Angular Material`
 - **What I learned:** Core Angular architecture, RxJS state management, and PWA capabilities including offline persistence and push notifications.
 
-🔗 [View Repository]([https://github.com/orsiszanto/ToDo_PWA_Application])
+🔗 [View Repository][https://github.com/orsiszanto/ToDo_PWA_Application]
 
 <img src="purple-svg.svg" width="100%" height="2px" />
 
