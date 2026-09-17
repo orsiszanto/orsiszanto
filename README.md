@@ -12,7 +12,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Orsolya_Szántó-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/orsolyaszanto06)
 
 </div>
-<img src="purple-svg.svg" width="100%" />
+<img src="purple-svg.svg" width="100%" height="2px" />
 
 ### 👩‍💻 About Me
 
@@ -21,7 +21,7 @@
 - 🌱 Always expanding my skill set through university coursework and personal builds.
 - ⚡ **Fun Fact:** My cats are always happy to help me code — usually by sitting directly between me and my keyboard. 🐱⌨️
 
-<img src="purple-svg.svg" width="100%" />
+<img src="purple-svg.svg" width="100%" height="2px" />
 
 ### 🛠️ Languages & Technologies
 
@@ -33,7 +33,7 @@
 | **Backend & Databases** | `Firebase` `PostgreSQL` `SQLite` `Google Cloud` |
 | **Tools & Frameworks** | `Git` `Linux` `OpenCV` |
 
-<img src="purple-svg.svg" width="100%" />
+<img src="purple-svg.svg" width="100%" height="2px" />
 
 ### 🚀 Featured Projects
 
@@ -56,7 +56,7 @@
 
 </details>
 
-<img src="purple-svg.svg" width="100%" />
+<img src="purple-svg.svg" width="100%" height="2px" />
 
 ### 🌸 Outside of Coding
 
@@ -65,7 +65,7 @@
 * 🧑‍🤝‍🧑 Spending quality time with friends
 * 🐱 Hanging out with my cats
 
-<img src="purple-svg.svg" width="100%" />
+<img src="purple-svg.svg" width="100%" height="2px" />
 
 <div align="center">
 
