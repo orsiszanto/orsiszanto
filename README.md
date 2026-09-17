@@ -16,14 +16,14 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Currently pursuing a Master's degree in Software Engineering at **Aalborg University**.
-- 💻 Primary focus on **Frontend Development**, web & mobile applications, and **UI/UX Design**.
-- 🌱 Always expanding my skill set through university coursework and personal builds.
-- ⚡ **Fun Fact:** My cats are always happy to help me code — usually by sitting directly between me and my keyboard. 🐱⌨️
+-  Currently pursuing a Master's degree in Software Engineering at **Aalborg University**.
+-  Primary focus on **Frontend Development**, web & mobile applications, and **UI/UX Design**.
+-  Always expanding my skill set through university coursework and personal builds.
+-  **Fun Fact:** My cats are always happy to help me code — usually by sitting directly between me and my keyboard. 🐱
 
 <img src="purple-svg.svg" width="100%" height="2px" />
 
-### 🛠️ Languages & Technologies
+### Languages & Technologies
 
 | Category | Technologies |
 | :--- | :--- |
@@ -35,9 +35,9 @@
 
 <img src="purple-svg.svg" width="100%" height="2px" />
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🚀 To-Do PWA Application
+#### To-Do PWA Application
 > Standalone Angular PWA prototype for a Progressive Web Apps course at the University of Szeged
 
 - **What it does:** Serves as a full-featured Progressive Web Application (PWA) prototype built to deliver real-time data management, user authentication, and push notifications with offline-first synchronization capabilities.
@@ -46,6 +46,16 @@
 - **What I learned:** Core Angular architecture, RxJS state management, and PWA capabilities including offline persistence and push notifications.
 
 🔗 [View Repository](https://github.com/orsiszanto/ToDo_PWA_Application)
+
+#### BookNails
+> Standalone Flutter mobile app prototype for a university mobile application development project
+
+- **What it does:** Provides a mobile-first nail salon booking experience with service browsing, appointment scheduling, appointment tracking, and separate customer and nail artist workflows.
+- **My contribution:** Designed the app structure and UI, implemented role-based navigation, authentication screens, service management, booking flows, profile management, reusable widgets, and Cubit-based state management.
+- **Technologies:** `Flutter` · `Dart` · `Cubit/BLoC` · `Firebase` (originally planned, not active in the current version)
+- **What I learned:** Mobile application architecture, reactive state management, role-based UX design, reusable Flutter components, and the design of scalable booking workflows.
+
+🔗 [View Repository](https://github.com/orsiszanto/BookNails)
 
 <img src="purple-svg.svg" width="100%" height="2px" />
 
