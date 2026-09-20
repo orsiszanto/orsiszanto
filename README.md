@@ -37,6 +37,37 @@
 
 ### Featured Projects
 
+
+#### FAM-ILY
+> Standalone Flutter household-management app prototype developed as a BSc thesis project
+
+- **What it does:** Provides shared family groups with collaborative to-do lists, calendar events, notes, contacts, document management, user profiles, and group notifications.
+- **My contribution:** Designed and implemented the application architecture and UI; developed authentication and family-group workflows, feature-specific CRUD operations, Cubit-based state management, Firebase integration, push notifications, and native Android file downloading through Kotlin and MethodChannel.
+- **Technologies:** `Flutter` · `Dart` · `Cubit/BLoC` · `Firebase` · `Kotlin` · `FCM`
+- **What I learned:** Mobile application architecture, reactive state management, cloud-backed data modeling, collaborative feature design, push-notification workflows, Firebase integration, and Flutter-to-native Android communication.
+
+🔗 [View Repository](https://github.com/orsiszanto/fam-ily)
+
+#### BookNails
+> Standalone Flutter mobile app prototype for a university mobile application development project
+
+- **What it does:** Provides a mobile-first nail salon booking experience with service browsing, appointment scheduling, appointment tracking, and separate customer and nail artist workflows.
+- **My contribution:** Designed the app structure and UI, implemented role-based navigation, authentication screens, service management, booking flows, profile management, reusable widgets, and Cubit-based state management.
+- **Technologies:** `Flutter` · `Dart` · `Cubit/BLoC` · `Firebase` 
+- **What I learned:** Mobile application architecture, reactive state management, role-based UX design, reusable Flutter components, and the design of scalable booking workflows.
+
+🔗 [View Repository](https://github.com/orsiszanto/BookNails)
+
+#### NailWebShop
+> Standalone Angular and Firebase e-commerce application for a university web development project
+
+- **What it does:** Provides a cloud-backed nail-care webshop with product browsing, search, category filtering, sorting, shopping cart management, authenticated checkout, order history, and profile management. It also includes a role-protected admin dashboard for managing products, categories, and order statuses.
+- **My contribution:** Designed the feature-based Angular architecture and responsive UI; implemented Firebase Authentication and Firestore integration, protected customer and admin routes, signal-based state management, cart persistence, product and order workflows, reusable UI components, validation, error handling, and the Firebase seed system.
+- **Technologies:** `Angular` · `TypeScript` · `Firebase` · `Angular Signals` · `RxJS` · `SCSS` · `Vitest`
+- **What I learned:** Full-stack frontend architecture, Firebase-backed data modeling, role-based access control, reactive state management with Angular signals, lazy-loaded routing, reusable component design, and building complete e-commerce workflows.
+
+🔗 [View Repository](https://github.com/orsiszanto/NailWebShop)
+
 #### To-Do PWA Application
 > Standalone Angular PWA prototype for a Progressive Web Apps course at the University of Szeged
 
@@ -46,16 +77,6 @@
 - **What I learned:** Core Angular architecture, RxJS state management, and PWA capabilities including offline persistence and push notifications.
 
 🔗 [View Repository](https://github.com/orsiszanto/ToDo_PWA_Application)
-
-#### BookNails
-> Standalone Flutter mobile app prototype for a university mobile application development project
-
-- **What it does:** Provides a mobile-first nail salon booking experience with service browsing, appointment scheduling, appointment tracking, and separate customer and nail artist workflows.
-- **My contribution:** Designed the app structure and UI, implemented role-based navigation, authentication screens, service management, booking flows, profile management, reusable widgets, and Cubit-based state management.
-- **Technologies:** `Flutter` · `Dart` · `Cubit/BLoC` · `Firebase` (originally planned, not active in the current version)
-- **What I learned:** Mobile application architecture, reactive state management, role-based UX design, reusable Flutter components, and the design of scalable booking workflows.
-
-🔗 [View Repository](https://github.com/orsiszanto/BookNails)
 
 <img src="purple-svg.svg" width="100%" height="2px" />
 
