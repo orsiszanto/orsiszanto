@@ -19,7 +19,7 @@
 -  Currently pursuing a Master's degree in Software Engineering at **Aalborg University**.
 -  Primary focus on **Frontend Development**, web & mobile applications, and **UI/UX Design**.
 -  Always expanding my skill set through university coursework and personal builds.
--  **Fun Fact:** My cats are always happy to help me code — usually by sitting directly between me and my keyboard. 🐱
+-  **Fun Fact:** My cats are always happy to help me code... Usually by sitting directly between me and my keyboard. 🐱
 
 <img src="purple-svg.svg" width="100%" height="2px" />
 
